@@ -1,0 +1,6 @@
+{
+  "name": "Mossline — Measure the Living Planet",
+  "description": "Environmental intelligence landing experience featuring a pinned scroll fly-in over a floating moss island, field sensor telemetry, and verified ecosystem accounting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
